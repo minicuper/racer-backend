@@ -1,0 +1,17 @@
+{
+  "name": "racer-backend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artur Zayats <zag2art@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^3.2.2",
+    "racer": "^0.9.3",
+    "sharedb-mongo": "^1.0.0-beta.4",
+    "sharedb-redis-pubsub": "^1.0.0-beta.1"
+  }
+}
